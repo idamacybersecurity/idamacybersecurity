@@ -51,7 +51,11 @@ I am a cybersecurity professional with hands-on experience in:
 - CompTIA Security+ SY0-701
 - GOMYCODE Intro to Cybersecurity
 
+
 # 🔥 Featured Projects
+✅ [Bincom Dev Center — Tasks Worked On](https://github.com/idamacybersecurity/Bincom-dev-center-tasks/blob/main/README.md)
+
+---
 ✅ [Azure Sentinel SIEM Lab](https://github.com/idamacybersecurity/Azure-Sentinel-SIEM/blob/main/README.md)
 
 ---
